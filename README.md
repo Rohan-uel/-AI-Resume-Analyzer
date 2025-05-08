@@ -1,4 +1,4 @@
-# AI Resume Analyzer and LinkedIn Scraper using Generative AI
+# AI Resume Analyzer using Generative AI
 
 **Introduction**
 
@@ -53,17 +53,6 @@ pip install selenium
 
 <br />
 
-**Usage**
-
-To use this project, follow these steps:
-
-1. Clone the repository: ```https://github.com/gopiashokan/AI-Powered-Resume-Analyzer-and-LinkedIn-Scraper-with-Selenium.git```
-2. Install the required packages: ```pip install -r requirements.txt```
-3. Run the Streamlit app: ```streamlit run app.py```
-4. Access the app in your browser at ```http://localhost:8501```
-
-<br />
-
 **Features**
 
 **Easy User Experience:**
@@ -94,8 +83,6 @@ To use this project, follow these steps:
 
 <br />
 
-🚀 **Streamlit application:** [https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI](https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI)
-
 <br />
 
 **Selenium-Powered LinkedIn Data Scraping:**
@@ -103,28 +90,3 @@ To use this project, follow these steps:
 - This streamlined process enables users to easily review scraped job details and apply for positions, simplifying their job search and application experience.
 
 <br />
-
-🎥 **Project Demo Video:** [https://youtu.be/wFouWeK7NPg](https://youtu.be/wFouWeK7NPg)
-
-<br />
-
-**Contributing**
-
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
-
-<br />
-
-**License**
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
-<br />
-
-**Contact**
-
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
-
